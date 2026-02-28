@@ -1,0 +1,225 @@
+{
+  "apps": {
+    "my-computer": {
+      "title": "My Computer",
+      "icon": "💻",
+      "content": {
+        "heading": "My Computer",
+        "description": "🖥️ <strong>1998 Los Santos Server</strong>",
+        "intro": "Welcome to the immersive 1998 Los Santos roleplay experience. This server brings the golden age of GTA back to life with authentic 90s aesthetics and gameplay.",
+        "features": [
+          "Authentic 1998 Los Santos setting",
+          "Immersive roleplay mechanics",
+          "Period-accurate vehicles and clothing",
+          "Active community and events"
+        ]
+      }
+    },
+    "store": {
+      "title": "Store",
+      "icon": "🛍️",
+      "content": {
+        "heading": "Store - Tebex",
+        "description": "🛍️ Purchase in-game items and cosmetics",
+        "items": [
+          "Vintage Cars (Lowriders, Classics)",
+          "90s Fashion & Clothing",
+          "Phone Cards & Credits",
+          "Character Customization",
+          "Property Upgrades"
+        ],
+        "link": "→ Visit Tebex Store"
+      }
+    },
+    "discord": {
+      "title": "Discord",
+      "icon": "💬",
+      "content": {
+        "heading": "Discord Community",
+        "description": "💬 Join our community on Discord",
+        "features": [
+          "Real-time server announcements",
+          "Player support and assistance",
+          "Events and competitions",
+          "Community forums",
+          "Staff applications"
+        ],
+        "link": "→ Join Discord Server"
+      }
+    },
+    "gallery": {
+      "title": "Gallery",
+      "icon": "🖼️",
+      "content": {
+        "heading": "Gallery - MS Paint",
+        "description": "🖼️ Server Screenshots & Media",
+        "placeholder": "Screenshots coming soon..."
+      }
+    },
+    "rules": {
+      "title": "Rules",
+      "icon": "📋",
+      "content": {
+        "heading": "Rules & Guidelines",
+        "rules": [
+          {
+            "number": 1,
+            "title": "Respect All Players",
+            "description": "Treat everyone with courtesy and respect."
+          },
+          {
+            "number": 2,
+            "title": "No Hacking/Exploiting",
+            "description": "Exploits and hacks will result in immediate ban."
+          },
+          {
+            "number": 3,
+            "title": "Roleplay Immersion",
+            "description": "Stay in character at all times."
+          },
+          {
+            "number": 4,
+            "title": "No Power Gaming",
+            "description": "Don't force actions on other players."
+          },
+          {
+            "number": 5,
+            "title": "No Metagaming",
+            "description": "Don't use out-of-character information in-game."
+          },
+          {
+            "number": 6,
+            "title": "Respect Staff Decisions",
+            "description": "Admin decisions are final."
+          },
+          {
+            "number": 7,
+            "title": "No Spam",
+            "description": "Keep chat clean and organized."
+          },
+          {
+            "number": 8,
+            "title": "Report Issues",
+            "description": "Use /report for problems."
+          }
+        ]
+      }
+    },
+    "changelog": {
+      "title": "Changelog",
+      "icon": "📝",
+      "content": {
+        "heading": "CHANGELOG.TXT",
+        "entries": [
+          {
+            "version": "1.5.2",
+            "date": "2026-02-28",
+            "changes": [
+              "Fixed vehicle spawn issues",
+              "Added new clothing store",
+              "Improved server stability"
+            ]
+          },
+          {
+            "version": "1.5.1",
+            "date": "2026-02-20",
+            "changes": [
+              "Performance optimizations",
+              "Fixed NPC pathfinding"
+            ]
+          },
+          {
+            "version": "1.5.0",
+            "date": "2026-02-10",
+            "changes": [
+              "New property system",
+              "Added business mechanics",
+              "Expanded map areas"
+            ]
+          }
+        ]
+      }
+    },
+    "internet-explorer": {
+      "title": "Internet Explorer",
+      "icon": "🌐",
+      "content": {
+        "heading": "Internet Explorer 4.0",
+        "description": "🌐 Quick Links",
+        "links": [
+          "Discord Community",
+          "Tebex Store",
+          "Server Documentation",
+          "Player Support"
+        ]
+      }
+    },
+    "control-panel": {
+      "title": "Control Panel",
+      "icon": "⚙️",
+      "content": {
+        "heading": "Control Panel",
+        "description": "⚙️ Server Information",
+        "info": {
+          "status": "Online ✓",
+          "players": "42/128",
+          "version": "1.5.2",
+          "lastRestart": "2 days ago",
+          "uptime": "99.8%"
+        },
+        "support": "For support, contact staff on Discord."
+      }
+    },
+    "network": {
+      "title": "Network Neighborhood",
+      "icon": "🌍",
+      "content": {
+        "heading": "Network Neighborhood",
+        "description": "🌍 Connected Players",
+        "players": [
+          "Player_1 - Los Santos",
+          "Player_2 - Downtown",
+          "Player_3 - Beach",
+          "Player_4 - Grove Street"
+        ],
+        "note": "Showing first 4 players..."
+      }
+    },
+    "winamp": {
+      "title": "WinAmp",
+      "icon": "🎵",
+      "content": {
+        "heading": "WinAmp 2.0",
+        "description": "🎵 90s Radio Playlist",
+        "stations": [
+          "K-ROSE - Country & Folk",
+          "K-DST - Hip Hop & Rap",
+          "RADIO LOS SANTOS - Reggae",
+          "SFUR - Funk & Soul",
+          "BOUNCE FM - Electro"
+        ],
+        "nowPlaying": "K-ROSE"
+      }
+    },
+    "error-popup": {
+      "title": "Error",
+      "icon": "⚠️",
+      "content": {
+        "heading": "⚠️ Error",
+        "button": "Click for Error Message",
+        "errorTitle": "⚠️ Fatal Error",
+        "errorMessage": "This program has performed an illegal operation and will be shut down.",
+        "errorDetails": "If the problem persists, contact the system administrator."
+      }
+    },
+    "recycle-bin": {
+      "title": "Recycle Bin",
+      "icon": "🗑️",
+      "content": {
+        "heading": "Recycle Bin",
+        "description": "🗑️ The Recycle Bin is empty",
+        "note": "Deleted files appear here"
+      }
+    }
+  }
+}

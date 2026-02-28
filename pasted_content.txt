@@ -1,0 +1,247 @@
+Here’s the **in‑depth, fully detailed prompt** you can use anywhere (for yourself, for another AI, for a dev, or as a project spec) to generate the **complete Windows‑95‑style website OS** you described.  
+It captures every feature, behavior, animation, and UI element you want — all in one place, written clearly and exhaustively.
+
+---
+
+# **Full Windows 95 Website OS — Complete Specification Prompt**
+
+**Build a fully interactive website that behaves like a complete Windows 95 desktop environment. The entire experience should simulate using an old computer from 1995–1998, including boot screens, UI, sounds, and draggable windows. The site should feel like a retro operating system, not a normal webpage.**
+
+---
+
+## **1. Boot Sequence (Two‑Stage Boot)**
+
+### **A. BIOS POST Screen**
+Simulate a 1990s Award BIOS POST:
+
+- Black background  
+- Lime‑green monospace text  
+- Fake hardware detection  
+- Memory test  
+- “Booting from C:\WINDOWS\”  
+- 1–2 seconds duration  
+
+Example text:
+```
+Award BIOS v4.51PG
+Pentium II 266MHz Detected
+Memory Test: 131072K OK
+Booting from C:\WINDOWS\
+```
+
+### **B. Windows 95 Boot Screen**
+After POST, show a Windows 95‑style boot:
+
+- Centered “Windows 95” logo  
+- White text: “Starting Windows 95…”  
+- Blue progress bar that fills over ~3 seconds  
+- Fade into desktop  
+
+---
+
+## **2. Desktop Environment**
+
+### **A. Background**
+- Solid teal (#008080) or a retro wallpaper  
+- CRT scanline overlay  
+- Slight screen curvature effect  
+
+### **B. Desktop Icons**
+Include authentic Win95‑style icons:
+
+- My Computer  
+- Internet Explorer  
+- Network Neighborhood  
+- Recycle Bin  
+- Store  
+- Discord  
+- Gallery  
+- Rules  
+- Changelog  
+
+Each icon:
+- 48×48px  
+- White label text  
+- Click opens a draggable window  
+
+---
+
+## **3. Taskbar & Start Menu**
+
+### **Taskbar**
+- Fixed at bottom  
+- Grey Win95 color (#C0C0C0)  
+- 3D beveled borders  
+- Start button on left  
+- Digital clock on right  
+- Clock uses **local time but forces the year to 1998**  
+
+### **Start Menu**
+When Start is clicked:
+
+- Pops up above taskbar  
+- Grey Win95 menu with hover highlights  
+- Contains “programs” that open windows:
+
+Programs to include:
+- Home / Story  
+- Store  
+- Discord  
+- Gallery (Paint)  
+- Rules (Control Panel)  
+- Changelog (Notepad)  
+- Internet Explorer  
+- Control Panel  
+- Network Neighborhood  
+- WinAmp  
+- Error Popup (Easter egg)  
+
+---
+
+## **4. Windows (Draggable, Resizable, Win95 Chrome)**
+
+Every program opens in a window with:
+
+- Blue title bar (#000080)  
+- White title text  
+- 3D beveled border  
+- Draggable by title bar  
+- Resizable  
+- Z‑index focus when clicked  
+- Close button optional  
+
+---
+
+## **5. Programs / Windows Content**
+
+### **A. Home / Story (My Computer)**
+- Server introduction  
+- 90s Los Angeles theme  
+- Immersion text  
+
+### **B. Store**
+- Tebex link  
+- 90s‑era items  
+- Cars, clothing, phone cards  
+
+### **C. Discord**
+- Invite link  
+- Community description  
+
+### **D. Gallery (Paint)**
+- Fake MS Paint UI  
+- Placeholder for screenshots  
+
+### **E. Rules (Control Panel)**
+- RP rules  
+- Era‑appropriate guidelines  
+- Commands / keybinds  
+
+### **F. Changelog (Notepad)**
+- Plain text patch notes  
+- Retro monospace font  
+
+### **G. Internet Explorer**
+- Links to Discord, Store, Docs  
+- Fake IE4 UI  
+
+### **H. Control Panel**
+- Server info  
+- FAQ  
+- Settings  
+
+### **I. Network Neighborhood**
+- Placeholder for player list  
+- Server uptime  
+- Status  
+
+### **J. WinAmp**
+- Retro WinAmp 2.0 skin  
+- Placeholder for 90s playlist or RP radio  
+
+### **K. Easter‑Egg Error Popups**
+Randomized Win95‑style error messages:
+
+- “This program has performed an illegal operation.”  
+- “A fatal exception 0E has occurred…”  
+
+---
+
+## **6. Sound Effects (Embedded or Base64)**
+
+Include authentic Win95 sounds:
+
+- Startup sound  
+- Click sound  
+- Error sound  
+
+Triggered by:
+
+- Boot → startup.wav  
+- Clicking icons → click.wav  
+- Error popups → error.wav  
+
+---
+
+## **7. Visual Effects**
+
+### **CRT Monitor Simulation**
+- Scanlines  
+- Slight flicker  
+- Subtle vignette  
+- Optional curvature  
+
+### **Window Animations**
+- Fade in  
+- Snap to front on click  
+
+### **Boot Animations**
+- Progress bar fill  
+- Fade to desktop  
+
+---
+
+## **8. Technical Requirements**
+
+- Entire project can be single‑file (`index.html`) OR multi‑file  
+- Must run locally with no server  
+- No external dependencies required  
+- All icons and sounds can be Base64‑embedded if needed  
+- Fully responsive on desktop (mobile optional)  
+
+---
+
+## **9. Behavior Requirements**
+
+- Windows overlap and stack  
+- Start menu toggles open/close  
+- Clicking desktop closes Start menu  
+- Windows open at slightly random positions  
+- Clock updates every second  
+- Year always displays as **1998**  
+- No modern UI elements allowed  
+
+---
+
+## **10. Overall Goal**
+
+Create a **fully interactive Windows 95 desktop simulation** that serves as the homepage for a FiveM server set in **1998 Los Santos**, complete with:
+
+- Immersion  
+- Nostalgia  
+- Functionality  
+- Humor  
+- Authenticity  
+
+The site should feel like booting up a real 90s PC to access the server’s world.
+
+---
+
+If you want, I can now turn this into:
+
+- A **single‑file index.html**  
+- A **multi‑file project with folders**  
+- A **compressed version**  
+- A **developer‑ready GitHub README**  
+
+Which format do you want next?
